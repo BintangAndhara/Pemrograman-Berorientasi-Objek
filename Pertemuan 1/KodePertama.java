@@ -6,4 +6,5 @@ public class KodePertama {
 
 //Nama : Bintang Andhara Putra
 //Nim : D1041241051
+//Hari/tangggal : Kamis,5 Febuari 2026
 }

@@ -8,4 +8,5 @@ public class BintangAndharaPutra_D1041241051_4 {
 
 //Nama : Bintang Andhara Putra
 //Nim : D1041241051
+//Hari/tangggal : Kamis,5 Febuari 2026
 }
