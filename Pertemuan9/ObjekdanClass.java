@@ -1,4 +1,4 @@
-package Perteman9;
+package Pertemuan9;
  public class ObjekdanClass {
     static class Mobil {
         String merk;
