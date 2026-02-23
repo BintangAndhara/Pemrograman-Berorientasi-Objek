@@ -17,8 +17,7 @@ public class LatihanBulan {
                 namaBulan = "Januari";
                 break;
             case 2:
-                namaBulan = "Februari"; // Perbaikan penulisan
-                break;
+                namaBulan = "Februari";
             case 3:
                 namaBulan = "Maret";
                 break;
